@@ -1,0 +1,2 @@
+# SoftwareEngineering-FromTheNotVeryBeginning
+一个列表和教程，教你作为一个软件工程的学生首先要会什么
